@@ -1,12 +1,11 @@
-title: Cookie
+title: Machine Learning Summerschool for Toxinologists 2023
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/"
-url: https://cookie-demo.netlify.app # change this URL, this is needed for generating right sitemap
-
-permalink: "/blog/:title/"
+url: https:/https://summer23.rostlab.org/
+permalink: "/:collection/:title/"
 
 plugins:
   - jekyll-feed
@@ -19,9 +18,11 @@ css_dir: "assets/css" # defaults to "css"
 highlighter: rouge
 
 collections:
-  posts:
+  persons:
+    output: false
+  program:
     output: true
-    permalink: "/blog/:title"
+    permalink: "/:collection/:title"
   pages:
     output: true
     permalink: "/:title"
@@ -29,9 +30,6 @@ collections:
 jekyll-minifier:
   uglifier_args:
     harmony: true
-
-soopr:
-  publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
 
 twitter:
   card: summary_large_image
@@ -48,3 +46,5 @@ exclude:
   - tailwind.config.js
   - .gitignore
   - vendor
+
+form_url: "https://docs.google.com/forms/d/e/1FAIpQLSeTyf5degk6LbiFj87Q3Dv5jIkkGbsucPJKnSDTTNKzo-jmpw/viewform?usp=sf_link&hl=en"

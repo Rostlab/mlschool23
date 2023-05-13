@@ -1,5 +1,5 @@
 {
-  "name": "cookie",
+  "name": "summerschool23",
   "version": "1.0.0",
   "description": "Landing website with blog using Jekyll and TailwindCSS",
   "homepage": "https://cookie-demo.netlify.app",
@@ -13,7 +13,7 @@
     "tailwindcss": "^3.0.15",
     "postcss-cli": "10.0.0"
   },
-  "author": "Abhinav Saxena",
+  "author": "Tobias Olenyi",
   "license": "MIT",
   "dependencies": {}
 }
