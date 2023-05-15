@@ -5,7 +5,6 @@ description: > # this means to ignore newlines until "show_excerpts:"
   Google search results) and in your feed.xml site description.
 baseurl: "/"
 url: https:/https://summer23.rostlab.org/
-permalink: "/:collection/:title/"
 
 plugins:
   - jekyll-feed
@@ -19,6 +18,8 @@ highlighter: rouge
 
 collections:
   persons:
+    output: false
+  questions:
     output: false
   program:
     output: true
