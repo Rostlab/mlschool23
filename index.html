@@ -342,7 +342,7 @@ layout: home
   <div class="container px-5 py-24 mx-auto">
     <div class="flex flex-col text-center w-full mb-12">
       <h2
-        class="font-heading mb-4 bg-yellow-100 text-yellow-800 px-4 py-2 rounded-lg md:w-36 md:mx-auto text-xs font-semibold tracking-widest uppercase title-font"
+        class="font-heading mb-4 bg-primary-100 text-yellow-800 px-4 py-2 rounded-lg md:w-36 md:mx-auto text-xs font-semibold tracking-widest uppercase title-font"
       >
         Contact
       </h2>
@@ -398,8 +398,8 @@ layout: home
           <button
             class="flex mx-auto text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg"
           >
-            Send
-            <i class="fa-solid fa-paper-plane"></i>
+            <p>Send</p>
+            <i class="ml-2 pt-1.5 fa-solid fa-paper-plane"></i>
           </button>
         </div>
       </div>
@@ -407,27 +407,24 @@ layout: home
   </div>
 </section>
 
-<section>
-  <div class="bg-gray-100">
-    <div
-      class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8 lg:flex lg:items-center lg:justify-between"
+<section class="bg-gray-100">
+  <div
+    class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8 lg:flex lg:items-center lg:justify-between"
+  >
+    <h2
+      class="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl"
     >
-      <h2
-        class="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl"
-      >
-        <span class="block">Excited?</span>
-        <span class="block text-primary-600">Sign up</span>
-      </h2>
-      <div class="mt-8 flex lg:mt-0 lg:flex-shrink-0">
-        <div class="inline-flex rounded-md shadow">
-          <a
-            href="{{ site.form_url }}"
-            ,
-            class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-primary-600 hover:bg-primary-700"
-          >
-            Sign up!
-          </a>
-        </div>
+      <span class="block">Excited?</span>
+      <span class="block text-primary-600">Sign up</span>
+    </h2>
+    <div class="mt-8 flex lg:mt-0 lg:flex-shrink-0">
+      <div class="inline-flex rounded-md shadow">
+        <a
+          href="{{ site.form_url }}"
+          class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-primary-600 hover:bg-primary-700"
+        >
+          Sign up!
+        </a>
       </div>
     </div>
   </div>
