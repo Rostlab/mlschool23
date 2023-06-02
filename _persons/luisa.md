@@ -1,6 +1,6 @@
 ---
 name: Luisa Jimenez-Soto
 img: luisa.png
-title: Expert on explainable AI
-desc: test desc
+title: Bacterial Toxin Researcher
+desc: Luisa is investigating the effects and applications of bacterial toxins using data science and molecular biology techniques.
 ---
