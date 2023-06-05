@@ -3,46 +3,52 @@ layout: page
 title: Terms of Service
 ---
 
-## 1\. Terms
+## Introduction
 
-By accessing this Website, accessible from http://website-url.com, you are agreeing to be bound by these Website Terms and Conditions of Use and agree that you are responsible for the agreement with any applicable local laws. If you disagree with any of these terms, you are prohibited from accessing this site. The materials contained in this Website are protected by copyright and trade mark law.
+    Welcome to Summer23.Rostlab.org. This website is designed to facilitate the registration process for a Machine Learning Summer School hosted by RostLab.
+    By using our website and registering for the event, you agree to comply with and be bound by the following terms and conditions.
 
-## 2\. Use License
+## Registration
 
-Permission is granted to temporarily download one copy of the materials on Company-XXX's Website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
+    Registration for the Machine Learning Summer School is open to all individuals who meet the eligibility criteria as outlined on our website.
+    By registering, you confirm that all information provided is accurate and up-to-date.
 
-*   modify or copy the materials;
-*   use the materials for any commercial purpose or for any public display;
-*   attempt to reverse engineer any software contained on Company-XXX's Website;
-*   remove any copyright or other proprietary notations from the materials; or
-*   transferring the materials to another person or "mirror" the materials on any other server.
+## Payment
 
-This will let Company-XXX to terminate upon violations of any of these restrictions. Upon termination, your viewing right will also be terminated and you should destroy any downloaded materials in your possession whether it is printed or electronic format. These Terms of Service has been created with the help of the [Terms Of Service Generator](https://www.termsofservicegenerator.net) and the [Privacy Policy Generator](https://www.generateprivacypolicy.com).
+    The registration fee for the event is dependent on the final number of participants. It cannot exceed the number given on our website.
+    The exact price will be told to you upon booking your slot.
+    Payment must be made in full at the time of registration. We reserve the right to cancel your registration if full payment is not received.
 
-## 3\. Disclaimer
+## Cancellation Policy
 
-All the materials on Company-XXX’s Website are provided "as is". Company-XXX makes no warranties, may it be expressed or implied, therefore negates all other warranties. Furthermore, Company-XXX does not make any representations concerning the accuracy or reliability of the use of the materials on its Website or otherwise relating to such materials or any sites linked to this Website.
+    You may cancel your registration up to four weeks before the event.
+    To cancel your registration, you must notify us in writing by email.
+    Cancellations received less than four weeks before the event will incur a cancellation fee as outlined below.
 
-## 4\. Limitations
+## Cancellation Fees
 
-Company-XXX or its suppliers will not be hold accountable for any damages that will arise with the use or inability to use the materials on Company-XXX’s Website, even if Company-XXX or an authorize representative of this Website has been notified, orally or written, of the possibility of such damage. Some jurisdiction does not allow limitations on implied warranties or limitations of liability for incidental damages, these limitations may not apply to you.
+    If you cancel your registration less than four weeks before the event, a cancellation fee will apply.
+    The cancellation fee will be a percentage of the registration fee, as determined by the proximity of the cancellation date to the event date.
+    The exact cancellation fee will be outlined in your registration confirmation.
 
-## 5\. Revisions and Errata
+## Changes to the Event
 
-The materials appearing on Company-XXX’s Website may include technical, typographical, or photographic errors. Company-XXX will not promise that any of the materials in this Website are accurate, complete, or current. Company-XXX may change the materials contained on its Website at any time without notice. Company-XXX does not make any commitment to update the materials.
+    We reserve the right to make changes to the event schedule, content, speakers, or venue.
+    If the event has to be cancelled due to circumstances beyond our control, we will offer a full refund of the registration fee.
 
-## 6\. Links
+## Privacy Policy
 
-Company-XXX has not reviewed all of the sites linked to its Website and is not responsible for the contents of any such linked site. The presence of any link does not imply endorsement by Company-XXX of the site. The use of any linked website is at the user’s own risk.
+    We respect your privacy and are committed to protecting your personal information.
+    Please refer to our <a href="/privacy-policy" >Privacy Policy</a> for information on how we collect, use, and protect your personal data.
 
-## 7\. Site Terms of Use Modifications
+## Limitation of Liability
 
-Company-XXX may revise these Terms of Use for its Website at any time without prior notice. By using this Website, you are agreeing to be bound by the current version of these Terms and Conditions of Use.
+    Our liability to you in relation to the use of our website or under these terms and conditions is limited as follows: we will not be liable for any loss or damage of any nature.
 
-## 8\. Your Privacy
+## Governing Law
 
-Please read our Privacy Policy.
+    These terms and conditions are governed by and construed in accordance with German law.
 
-## 9\. Governing Law
+## Changes to these Terms
 
-Any claim related to Company-XXX's Website shall be governed by the laws of us without regards to its conflict of law provisions.
+    We reserve the right to modify these terms and conditions at any time. Any changes will be posted on this page.
