@@ -2,7 +2,5 @@
 name: Tanja Krüger
 img: tanja.png
 title: Toxiniologist and Machine Learning Practicioner
-desc:
+desc: Tanja is using Machine Learning to predict bacterial exotoxins in her research.
 ---
-
-Tanja is using Machine Learning to predict bacterial exotoxins in her research.
