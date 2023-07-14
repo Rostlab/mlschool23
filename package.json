@@ -1,8 +1,8 @@
 {
-  "name": "summerschool23",
+  "name": "mlschool23",
   "version": "1.0.0",
-  "description": "Landing website with blog using Jekyll and TailwindCSS",
-  "homepage": "https://cookie-demo.netlify.app",
+  "description": "Landing website for the Rostlab MLschool 23",
+  "homepage": "https://mlschool23.rostlab.org",
   "devDependencies": {
     "@tailwindcss/aspect-ratio": "^0.3.0",
     "@tailwindcss/forms": "^0.4.0",
