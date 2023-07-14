@@ -1,9 +1,9 @@
-title: Machine Learning Summerschool for Toxinologists 2023
+title: Machine Learning School for Toxinologists 2023
 description: > # this means to ignore newlines until "show_excerpts:"
-  Machine Learning Summerschool for Toxinologists, Bioligists.
+  Machine Learning School for Toxinologists, Bioligists.
   We will teach the basics of machine learning with biological data.
 baseurl: "/"
-url: https:/https://summer23.rostlab.org/
+url: https://mlschool23.rostlab.org/
 
 plugins:
   - jekyll-feed
