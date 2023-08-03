@@ -1,6 +1,6 @@
 ---
 name: Luisa Jimenez-Soto
 img: luisa.png
-title: Bacterial Toxin Researcher
+title: Expert in Bacterial Toxin Research
 desc: Luisa is investigating the effects and applications of bacterial toxins using data science and molecular biology techniques.
 ---
