@@ -5,12 +5,12 @@ title: Terms of Service
 
 ## Introduction
 
-Welcome to Summer23.Rostlab.org. This website is designed to facilitate the registration process for a Machine Learning Summer School hosted by RostLab.
+Welcome to mlschool23.Rostlab.org. This website is designed to facilitate the registration process for a Machine Learning Summer School hosted by RostLab.
 By using our website and registering for the event, you agree to comply with and be bound by the following terms and conditions.
 
 ## Registration
 
-Registration for the Machine Learning Summer School is open to all individuals who meet the eligibility criteria as outlined on our website.
+Registration for the Machine Learning Summer School is open to all individuals who meet the eligibility criteria outlined on our website.
 By registering, you confirm that all information provided is accurate and up-to-date.
 
 ## Payment
@@ -34,7 +34,7 @@ The exact cancellation fee will be outlined in your registration confirmation.
 ## Changes to the Event
 
 We reserve the right to make changes to the event schedule, content, speakers, or venue.
-If the event has to be cancelled due to circumstances beyond our control, we will offer a full refund of the registration fee.
+If the event has to be canceled due to circumstances beyond our control, we will offer a full refund of the registration fee.
 
 ## Privacy Policy
 
